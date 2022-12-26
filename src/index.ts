@@ -1,1 +1,1 @@
-export * from "./lib/sum";
+export { Runner } from "./lib/Runner";

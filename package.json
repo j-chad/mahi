@@ -34,11 +34,6 @@
     "lint-staged": "^13.1.0",
     "prettier": "2.8.1"
   },
-  "jest": {
-    "transform": {
-      "^.+\\.[t|j]sx?$": "babel-jest"
-    }
-  },
   "lint-staged": {
     "**/*": "prettier --write --ignore-unknown"
   }
